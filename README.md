@@ -26,7 +26,7 @@ Validar os principais endpoints da API, garantindo:
 
 ## 📂 Estrutura do Projeto
 
-
+```
 ├── tests/
 │ ├── collection.json # Collection Postman com os testes
 │ └── environment.json # Environment com variáveis
@@ -36,7 +36,7 @@ Validar os principais endpoints da API, garantindo:
 │ └── api-tests.yml # Pipeline de CI
 │
 └── README.md
-
+```
 
 
 ---
