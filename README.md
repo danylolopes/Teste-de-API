@@ -82,4 +82,7 @@ Os relatórios podem ser acessados na aba **Actions** do GitHub.
 ## 👨‍💻 Autor
  **Danylo Amorim Lopes**
 
+ QA Engineer – Automação de API
+ 
+
 
